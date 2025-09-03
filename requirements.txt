@@ -1,0 +1,11 @@
+# Core dependencies
+Pillow>=10.0.0
+fpdf2>=2.7.0
+
+# Optional: For GUI version (future enhancement)
+# tkinter (built-in with Python)
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
