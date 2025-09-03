@@ -1,0 +1,624 @@
+2025-09-03 12:51:23 - LandscapePDF - INFO - Trang 1/5: Xu ly 2 anh
+2025-09-03 12:51:23 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114215 (2).png
+2025-09-03 12:51:23 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114215.png
+2025-09-03 12:51:24 - LandscapePDF - INFO - Trang 2/5: Xu ly 2 anh
+2025-09-03 12:51:24 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114243.png
+2025-09-03 12:51:24 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114252.png
+2025-09-03 12:51:24 - LandscapePDF - INFO - Trang 3/5: Xu ly 2 anh
+2025-09-03 12:51:24 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114727.png
+2025-09-03 12:51:24 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 141536.png
+2025-09-03 12:51:25 - LandscapePDF - INFO - Trang 4/5: Xu ly 2 anh
+2025-09-03 12:51:25 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 143346.png
+2025-09-03 12:51:25 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 143529.png
+2025-09-03 12:51:25 - LandscapePDF - INFO - Trang 5/5: Xu ly 1 anh
+2025-09-03 12:51:25 - LandscapePDF - INFO -   Processing: z6960241912728_b190b7dab7dd72d46026c47d674fd879.jpg
+2025-09-03 12:51:25 - LandscapePDF - INFO - SUCCESS: PDF da duoc tao: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_125123_copy01.pdf
+2025-09-03 12:51:25 - LandscapePDF - INFO - STATS: Thanh cong: 5 trang tu 9 anh
+2025-09-03 12:51:25 - LandscapePDF - INFO - Trang 1/5: Xu ly 2 anh
+2025-09-03 12:51:25 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 141536.png
+2025-09-03 12:51:26 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114215.png
+2025-09-03 12:51:26 - LandscapePDF - INFO - Trang 2/5: Xu ly 2 anh
+2025-09-03 12:51:26 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114215 (2).png
+2025-09-03 12:51:26 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114727.png
+2025-09-03 12:51:26 - LandscapePDF - INFO - Trang 3/5: Xu ly 2 anh
+2025-09-03 12:51:26 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 143346.png
+2025-09-03 12:51:27 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114243.png
+2025-09-03 12:51:27 - LandscapePDF - INFO - Trang 4/5: Xu ly 2 anh
+2025-09-03 12:51:27 - LandscapePDF - INFO -   Processing: z6960241912728_b190b7dab7dd72d46026c47d674fd879.jpg
+2025-09-03 12:51:27 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 143529.png
+2025-09-03 12:51:27 - LandscapePDF - INFO - Trang 5/5: Xu ly 1 anh
+2025-09-03 12:51:27 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114252.png
+2025-09-03 12:51:28 - LandscapePDF - INFO - SUCCESS: PDF da duoc tao: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_125125_copy02.pdf
+2025-09-03 12:51:28 - LandscapePDF - INFO - STATS: Thanh cong: 5 trang tu 9 anh
+2025-09-03 13:01:23 - LandscapePDF - INFO - Cấu hình: 2 ảnh/trang, Quality: 95, Page: 297.0x210.0mm
+2025-09-03 13:01:23 - LandscapePDF - INFO - Trang 1/5: Xử lý 2 ảnh
+2025-09-03 13:01:23 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114215 (2).png
+2025-09-03 13:01:23 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114215.png
+2025-09-03 13:01:24 - LandscapePDF - INFO - Trang 2/5: Xử lý 2 ảnh
+2025-09-03 13:01:24 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114243.png
+2025-09-03 13:01:24 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114252.png
+2025-09-03 13:01:25 - LandscapePDF - INFO - Trang 3/5: Xử lý 2 ảnh
+2025-09-03 13:01:25 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114727.png
+2025-09-03 13:01:25 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 141536.png
+2025-09-03 13:01:25 - LandscapePDF - INFO - Trang 4/5: Xử lý 2 ảnh
+2025-09-03 13:01:25 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 143346.png
+2025-09-03 13:01:26 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 143529.png
+2025-09-03 13:01:26 - LandscapePDF - INFO - Trang 5/5: Xử lý 1 ảnh
+2025-09-03 13:01:26 - LandscapePDF - INFO -   Processing: z6960241912728_b190b7dab7dd72d46026c47d674fd879.jpg
+2025-09-03 13:01:27 - LandscapePDF - INFO - SUCCESS: PDF đã được tạo: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_130123.pdf
+2025-09-03 13:01:27 - LandscapePDF - INFO - STATS: Thành công: 5 trang từ 9 ảnh
+2025-09-03 13:21:10 - LandscapePDF - INFO - Tạo PDF bản 01: 2 ảnh/trang, Quality: 90
+2025-09-03 13:21:10 - LandscapePDF - INFO - Kích thước trang: 297.0x210.0mm, Margin: 8.0mm
+2025-09-03 13:21:10 - LandscapePDF - INFO - Bản 01 - Trang 1/5: Xử lý 2 ảnh
+2025-09-03 13:21:10 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-22 114215 (2).png
+2025-09-03 13:21:10 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-22 114215.png
+2025-09-03 13:21:11 - LandscapePDF - INFO - Bản 01 - Trang 2/5: Xử lý 2 ảnh
+2025-09-03 13:21:11 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-22 114243.png
+2025-09-03 13:21:11 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-22 114252.png
+2025-09-03 13:21:12 - LandscapePDF - INFO - Bản 01 - Trang 3/5: Xử lý 2 ảnh
+2025-09-03 13:21:12 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-22 114727.png
+2025-09-03 13:21:12 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-24 141536.png
+2025-09-03 13:21:13 - LandscapePDF - INFO - Bản 01 - Trang 4/5: Xử lý 2 ảnh
+2025-09-03 13:21:13 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-24 143346.png
+2025-09-03 13:21:13 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-24 143529.png
+2025-09-03 13:21:14 - LandscapePDF - INFO - Bản 01 - Trang 5/5: Xử lý 1 ảnh
+2025-09-03 13:21:14 - LandscapePDF - INFO -   Bản 01 - Xử lý: z6960241912728_b190b7dab7dd72d46026c47d674fd879.jpg
+2025-09-03 13:21:14 - LandscapePDF - ERROR - ERROR: Lỗi chung bản 01: 'latin-1' codec can't encode character '\u1ea3' in position 174: ordinal not in range(256)
+2025-09-03 13:22:15 - LandscapePDF - INFO - Tạo PDF bản 01: 2 ảnh/trang, Quality: 90
+2025-09-03 13:22:15 - LandscapePDF - INFO - Kích thước trang: 297.0x210.0mm, Margin: 8.0mm
+2025-09-03 13:22:15 - LandscapePDF - INFO - Bản 01 - Trang 1/5: Xử lý 2 ảnh
+2025-09-03 13:22:15 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-22 114215 (2).png
+2025-09-03 13:22:16 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-22 114215.png
+2025-09-03 13:22:16 - LandscapePDF - INFO - Bản 01 - Trang 2/5: Xử lý 2 ảnh
+2025-09-03 13:22:16 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-22 114243.png
+2025-09-03 13:22:17 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-22 114252.png
+2025-09-03 13:22:17 - LandscapePDF - INFO - Bản 01 - Trang 3/5: Xử lý 2 ảnh
+2025-09-03 13:22:17 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-22 114727.png
+2025-09-03 13:22:17 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-24 141536.png
+2025-09-03 13:22:18 - LandscapePDF - INFO - Bản 01 - Trang 4/5: Xử lý 2 ảnh
+2025-09-03 13:22:18 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-24 143346.png
+2025-09-03 13:22:18 - LandscapePDF - INFO -   Bản 01 - Xử lý: Screenshot 2025-05-24 143529.png
+2025-09-03 13:22:19 - LandscapePDF - INFO - Bản 01 - Trang 5/5: Xử lý 1 ảnh
+2025-09-03 13:22:19 - LandscapePDF - INFO -   Bản 01 - Xử lý: z6960241912728_b190b7dab7dd72d46026c47d674fd879.jpg
+2025-09-03 13:22:19 - LandscapePDF - ERROR - ERROR: Lỗi chung bản 01: 'latin-1' codec can't encode character '\u1ea3' in position 174: ordinal not in range(256)
+2025-09-03 13:24:40 - LandscapePDF - INFO - Tạo PDF bản 01: 2 ảnh/trang, Quality: 90
+2025-09-03 13:24:40 - LandscapePDF - INFO - Kích thước trang: 297.0x210.0mm, Margin: 8.0mm
+2025-09-03 13:24:40 - LandscapePDF - INFO - Bản 01 - Trang 1/5: Xử lý 2 ảnh
+2025-09-03 13:24:40 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114215 (2).png
+2025-09-03 13:24:41 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114215.png
+2025-09-03 13:24:41 - LandscapePDF - INFO - Bản 01 - Trang 2/5: Xử lý 2 ảnh
+2025-09-03 13:24:41 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114243.png
+2025-09-03 13:24:41 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114252.png
+2025-09-03 13:24:42 - LandscapePDF - INFO - Bản 01 - Trang 3/5: Xử lý 2 ảnh
+2025-09-03 13:24:42 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114727.png
+2025-09-03 13:24:42 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-24 141536.png
+2025-09-03 13:24:43 - LandscapePDF - INFO - Bản 01 - Trang 4/5: Xử lý 2 ảnh
+2025-09-03 13:24:43 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-24 143346.png
+2025-09-03 13:24:43 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-24 143529.png
+2025-09-03 13:24:44 - LandscapePDF - INFO - Bản 01 - Trang 5/5: Xử lý 1 ảnh
+2025-09-03 13:24:44 - LandscapePDF - INFO -   Copy 01 - Processing: z6960241912728_b190b7dab7dd72d46026c47d674fd879.jpg
+2025-09-03 13:24:44 - LandscapePDF - ERROR - ERROR: Lỗi chung bản 01: 'latin-1' codec can't encode character '\u1ea3' in position 174: ordinal not in range(256)
+2025-09-03 13:25:08 - LandscapePDF - INFO - Tạo PDF bản 01: 2 ảnh/trang, Quality: 90
+2025-09-03 13:25:08 - LandscapePDF - INFO - Kích thước trang: 297.0x210.0mm, Margin: 8.0mm
+2025-09-03 13:25:08 - LandscapePDF - INFO - Bản 01 - Trang 1/5: Xử lý 2 ảnh
+2025-09-03 13:25:08 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114215 (2).png
+2025-09-03 13:25:09 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114215.png
+2025-09-03 13:25:09 - LandscapePDF - INFO - Bản 01 - Trang 2/5: Xử lý 2 ảnh
+2025-09-03 13:25:09 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114243.png
+2025-09-03 13:25:10 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114252.png
+2025-09-03 13:25:10 - LandscapePDF - INFO - Bản 01 - Trang 3/5: Xử lý 2 ảnh
+2025-09-03 13:25:10 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114727.png
+2025-09-03 13:25:11 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-24 141536.png
+2025-09-03 13:25:11 - LandscapePDF - INFO - Bản 01 - Trang 4/5: Xử lý 2 ảnh
+2025-09-03 13:25:11 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-24 143346.png
+2025-09-03 13:25:12 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-24 143529.png
+2025-09-03 13:25:12 - LandscapePDF - INFO - Bản 01 - Trang 5/5: Xử lý 1 ảnh
+2025-09-03 13:25:12 - LandscapePDF - INFO -   Copy 01 - Processing: z6960241912728_b190b7dab7dd72d46026c47d674fd879.jpg
+2025-09-03 13:25:12 - LandscapePDF - ERROR - ERROR: Lỗi chung bản 01: 'latin-1' codec can't encode character '\u1ea3' in position 174: ordinal not in range(256)
+2025-09-03 13:28:26 - LandscapePDF - INFO - Tạo PDF bản 01: 2 ảnh/trang, Quality: 90
+2025-09-03 13:28:26 - LandscapePDF - INFO - Kích thước trang: 297.0x210.0mm, Margin: 8.0mm
+2025-09-03 13:28:26 - LandscapePDF - INFO - Bản 01 - Trang 1/5: Xử lý 2 ảnh
+2025-09-03 13:28:26 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114215 (2).png
+2025-09-03 13:28:26 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114215.png
+2025-09-03 13:28:27 - LandscapePDF - INFO - Bản 01 - Trang 2/5: Xử lý 2 ảnh
+2025-09-03 13:28:27 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114243.png
+2025-09-03 13:28:27 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114252.png
+2025-09-03 13:28:28 - LandscapePDF - INFO - Bản 01 - Trang 3/5: Xử lý 2 ảnh
+2025-09-03 13:28:28 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-22 114727.png
+2025-09-03 13:28:28 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-24 141536.png
+2025-09-03 13:28:29 - LandscapePDF - INFO - Bản 01 - Trang 4/5: Xử lý 2 ảnh
+2025-09-03 13:28:29 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-24 143346.png
+2025-09-03 13:28:29 - LandscapePDF - INFO -   Copy 01 - Processing: Screenshot 2025-05-24 143529.png
+2025-09-03 13:28:30 - LandscapePDF - INFO - Bản 01 - Trang 5/5: Xử lý 1 ảnh
+2025-09-03 13:28:30 - LandscapePDF - INFO -   Copy 01 - Processing: z6960241912728_b190b7dab7dd72d46026c47d674fd879.jpg
+2025-09-03 13:28:30 - LandscapePDF - ERROR - ERROR: Lỗi chung bản 01: 'latin-1' codec can't encode character '\u1ea3' in position 174: ordinal not in range(256)
+2025-09-03 13:36:16 - LandscapePDF - INFO - Trang 1/5: Xu ly 2 anh
+2025-09-03 13:36:16 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114215 (2).png
+2025-09-03 13:36:16 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114215.png
+2025-09-03 13:36:16 - LandscapePDF - INFO - Trang 2/5: Xu ly 2 anh
+2025-09-03 13:36:16 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114243.png
+2025-09-03 13:36:17 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114252.png
+2025-09-03 13:36:17 - LandscapePDF - INFO - Trang 3/5: Xu ly 2 anh
+2025-09-03 13:36:17 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114727.png
+2025-09-03 13:36:17 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 141536.png
+2025-09-03 13:36:17 - LandscapePDF - INFO - Trang 4/5: Xu ly 2 anh
+2025-09-03 13:36:18 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 143346.png
+2025-09-03 13:36:18 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 143529.png
+2025-09-03 13:36:18 - LandscapePDF - INFO - Trang 5/5: Xu ly 1 anh
+2025-09-03 13:36:18 - LandscapePDF - INFO -   Processing: z6960241912728_b190b7dab7dd72d46026c47d674fd879.jpg
+2025-09-03 13:36:18 - LandscapePDF - INFO - SUCCESS: PDF da duoc tao: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_133616_copy01.pdf
+2025-09-03 13:36:18 - LandscapePDF - INFO - STATS: Thanh cong: 5 trang tu 9 anh
+2025-09-03 13:36:18 - LandscapePDF - INFO - Trang 1/5: Xu ly 2 anh
+2025-09-03 13:36:18 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114252.png
+2025-09-03 13:36:19 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 143346.png
+2025-09-03 13:36:19 - LandscapePDF - INFO - Trang 2/5: Xu ly 2 anh
+2025-09-03 13:36:19 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114215 (2).png
+2025-09-03 13:36:19 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 141536.png
+2025-09-03 13:36:20 - LandscapePDF - INFO - Trang 3/5: Xu ly 2 anh
+2025-09-03 13:36:20 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114727.png
+2025-09-03 13:36:20 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-24 143529.png
+2025-09-03 13:36:20 - LandscapePDF - INFO - Trang 4/5: Xu ly 2 anh
+2025-09-03 13:36:20 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114243.png
+2025-09-03 13:36:20 - LandscapePDF - INFO -   Processing: z6960241912728_b190b7dab7dd72d46026c47d674fd879.jpg
+2025-09-03 13:36:21 - LandscapePDF - INFO - Trang 5/5: Xu ly 1 anh
+2025-09-03 13:36:21 - LandscapePDF - INFO -   Processing: Screenshot 2025-05-22 114215.png
+2025-09-03 13:36:21 - LandscapePDF - INFO - SUCCESS: PDF da duoc tao: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_133618_copy02.pdf
+2025-09-03 13:36:21 - LandscapePDF - INFO - STATS: Thanh cong: 5 trang tu 9 anh
+2025-09-03 13:43:50 - LandscapePDF - INFO - Trang 1/10: Xu ly 2 anh
+2025-09-03 13:43:50 - LandscapePDF - INFO -   Processing: 540188804_764397789913318_2688826422228665341_n.jpg
+2025-09-03 13:43:50 - LandscapePDF - INFO -   Processing: 540482544_3262281267262219_8357933210408560192_n.jpg
+2025-09-03 13:43:50 - LandscapePDF - INFO - Trang 2/10: Xu ly 2 anh
+2025-09-03 13:43:50 - LandscapePDF - INFO -   Processing: 540524245_770015365766920_4439550005776684681_n.jpg
+2025-09-03 13:43:50 - LandscapePDF - INFO -   Processing: 540535503_1848470152400505_8042067828159863331_n.jpg
+2025-09-03 13:43:51 - LandscapePDF - INFO - Trang 3/10: Xu ly 2 anh
+2025-09-03 13:43:51 - LandscapePDF - INFO -   Processing: 540570846_769843835784073_2613467538492001908_n.jpg
+2025-09-03 13:43:51 - LandscapePDF - INFO -   Processing: 540690226_1349996933159358_4989027292475908743_n.jpg
+2025-09-03 13:43:51 - LandscapePDF - INFO - Trang 4/10: Xu ly 2 anh
+2025-09-03 13:43:51 - LandscapePDF - INFO -   Processing: 540975980_1222782093222106_5436454751810972480_n.jpg
+2025-09-03 13:43:51 - LandscapePDF - INFO -   Processing: 541309738_1343241280493249_8238533789616647217_n.jpg
+2025-09-03 13:43:52 - LandscapePDF - INFO - Trang 5/10: Xu ly 2 anh
+2025-09-03 13:43:52 - LandscapePDF - INFO -   Processing: 541439729_2457169878001925_6733302810437849587_n.jpg
+2025-09-03 13:43:52 - LandscapePDF - INFO -   Processing: 541461785_1349998519825866_1637791319843333485_n.jpg
+2025-09-03 13:43:52 - LandscapePDF - INFO - Trang 6/10: Xu ly 2 anh
+2025-09-03 13:43:52 - LandscapePDF - INFO -   Processing: 541696404_1559754355006319_957561206582377626_n.jpg
+2025-09-03 13:43:52 - LandscapePDF - INFO -   Processing: 541842683_122160597374392284_613772437941354281_n.jpg
+2025-09-03 13:43:53 - LandscapePDF - INFO - Trang 7/10: Xu ly 2 anh
+2025-09-03 13:43:53 - LandscapePDF - INFO -   Processing: 542000219_24085608211121879_3388602313907971306_n.jpg
+2025-09-03 13:43:53 - LandscapePDF - INFO -   Processing: 542100460_4273863016234647_4136668971322750029_n.jpg
+2025-09-03 13:43:53 - LandscapePDF - INFO - Trang 8/10: Xu ly 2 anh
+2025-09-03 13:43:53 - LandscapePDF - INFO -   Processing: 542186533_2608928489445391_7249546168971983569_n.jpg
+2025-09-03 13:43:53 - LandscapePDF - INFO -   Processing: 542211162_1235126131985498_5283819714992465027_n.jpg
+2025-09-03 13:43:54 - LandscapePDF - INFO - Trang 9/10: Xu ly 2 anh
+2025-09-03 13:43:54 - LandscapePDF - INFO -   Processing: 542755788_1490602098801393_858187205922424347_n.jpg
+2025-09-03 13:43:54 - LandscapePDF - INFO -   Processing: 542755910_3278265898998555_7289432189616158670_n.jpg
+2025-09-03 13:43:54 - LandscapePDF - INFO - Trang 10/10: Xu ly 2 anh
+2025-09-03 13:43:54 - LandscapePDF - INFO -   Processing: 542760758_4173674542909114_1714412912840665734_n.jpg
+2025-09-03 13:43:54 - LandscapePDF - INFO -   Processing: 543383901_790399170182192_7814271626662424138_n.jpg
+2025-09-03 13:43:55 - LandscapePDF - INFO - SUCCESS: PDF da duoc tao: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_134350_copy01.pdf
+2025-09-03 13:43:55 - LandscapePDF - INFO - STATS: Thanh cong: 10 trang tu 20 anh
+2025-09-03 13:43:55 - LandscapePDF - INFO - Trang 1/10: Xu ly 2 anh
+2025-09-03 13:43:55 - LandscapePDF - INFO -   Processing: 541439729_2457169878001925_6733302810437849587_n.jpg
+2025-09-03 13:43:56 - LandscapePDF - INFO -   Processing: 542186533_2608928489445391_7249546168971983569_n.jpg
+2025-09-03 13:43:56 - LandscapePDF - INFO - Trang 2/10: Xu ly 2 anh
+2025-09-03 13:43:56 - LandscapePDF - INFO -   Processing: 543383901_790399170182192_7814271626662424138_n.jpg
+2025-09-03 13:43:56 - LandscapePDF - INFO -   Processing: 540690226_1349996933159358_4989027292475908743_n.jpg
+2025-09-03 13:43:56 - LandscapePDF - INFO - Trang 3/10: Xu ly 2 anh
+2025-09-03 13:43:56 - LandscapePDF - INFO -   Processing: 542755788_1490602098801393_858187205922424347_n.jpg
+2025-09-03 13:43:57 - LandscapePDF - INFO -   Processing: 540570846_769843835784073_2613467538492001908_n.jpg
+2025-09-03 13:43:57 - LandscapePDF - INFO - Trang 4/10: Xu ly 2 anh
+2025-09-03 13:43:57 - LandscapePDF - INFO -   Processing: 542755910_3278265898998555_7289432189616158670_n.jpg
+2025-09-03 13:43:57 - LandscapePDF - INFO -   Processing: 540482544_3262281267262219_8357933210408560192_n.jpg
+2025-09-03 13:43:57 - LandscapePDF - INFO - Trang 5/10: Xu ly 2 anh
+2025-09-03 13:43:57 - LandscapePDF - INFO -   Processing: 542000219_24085608211121879_3388602313907971306_n.jpg
+2025-09-03 13:43:58 - LandscapePDF - INFO -   Processing: 540535503_1848470152400505_8042067828159863331_n.jpg
+2025-09-03 13:43:58 - LandscapePDF - INFO - Trang 6/10: Xu ly 2 anh
+2025-09-03 13:43:58 - LandscapePDF - INFO -   Processing: 542760758_4173674542909114_1714412912840665734_n.jpg
+2025-09-03 13:43:58 - LandscapePDF - INFO -   Processing: 540188804_764397789913318_2688826422228665341_n.jpg
+2025-09-03 13:43:59 - LandscapePDF - INFO - Trang 7/10: Xu ly 2 anh
+2025-09-03 13:43:59 - LandscapePDF - INFO -   Processing: 541461785_1349998519825866_1637791319843333485_n.jpg
+2025-09-03 13:43:59 - LandscapePDF - INFO -   Processing: 542100460_4273863016234647_4136668971322750029_n.jpg
+2025-09-03 13:43:59 - LandscapePDF - INFO - Trang 8/10: Xu ly 2 anh
+2025-09-03 13:43:59 - LandscapePDF - INFO -   Processing: 540975980_1222782093222106_5436454751810972480_n.jpg
+2025-09-03 13:43:59 - LandscapePDF - INFO -   Processing: 540524245_770015365766920_4439550005776684681_n.jpg
+2025-09-03 13:44:00 - LandscapePDF - INFO - Trang 9/10: Xu ly 2 anh
+2025-09-03 13:44:00 - LandscapePDF - INFO -   Processing: 541842683_122160597374392284_613772437941354281_n.jpg
+2025-09-03 13:44:00 - LandscapePDF - INFO -   Processing: 541696404_1559754355006319_957561206582377626_n.jpg
+2025-09-03 13:44:00 - LandscapePDF - INFO - Trang 10/10: Xu ly 2 anh
+2025-09-03 13:44:00 - LandscapePDF - INFO -   Processing: 541309738_1343241280493249_8238533789616647217_n.jpg
+2025-09-03 13:44:00 - LandscapePDF - INFO -   Processing: 542211162_1235126131985498_5283819714992465027_n.jpg
+2025-09-03 13:44:01 - LandscapePDF - INFO - SUCCESS: PDF da duoc tao: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_134355_copy02.pdf
+2025-09-03 13:44:01 - LandscapePDF - INFO - STATS: Thanh cong: 10 trang tu 20 anh
+2025-09-03 13:48:11 - LandscapePDF - INFO - Trang 1/10: Xu ly 2 anh
+2025-09-03 13:48:11 - LandscapePDF - INFO -   Processing: 540188804_764397789913318_2688826422228665341_n.jpg
+2025-09-03 13:48:12 - LandscapePDF - INFO -   Processing: 540482544_3262281267262219_8357933210408560192_n.jpg
+2025-09-03 13:48:12 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 1: 'int' object has no attribute 'replace'
+2025-09-03 13:48:12 - LandscapePDF - INFO - Trang 2/10: Xu ly 2 anh
+2025-09-03 13:48:12 - LandscapePDF - INFO -   Processing: 540524245_770015365766920_4439550005776684681_n.jpg
+2025-09-03 13:48:12 - LandscapePDF - INFO -   Processing: 540535503_1848470152400505_8042067828159863331_n.jpg
+2025-09-03 13:48:13 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 2: 'int' object has no attribute 'replace'
+2025-09-03 13:48:13 - LandscapePDF - INFO - Trang 3/10: Xu ly 2 anh
+2025-09-03 13:48:13 - LandscapePDF - INFO -   Processing: 540570846_769843835784073_2613467538492001908_n.jpg
+2025-09-03 13:48:13 - LandscapePDF - INFO -   Processing: 540690226_1349996933159358_4989027292475908743_n.jpg
+2025-09-03 13:48:13 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 3: 'int' object has no attribute 'replace'
+2025-09-03 13:48:13 - LandscapePDF - INFO - Trang 4/10: Xu ly 2 anh
+2025-09-03 13:48:13 - LandscapePDF - INFO -   Processing: 540975980_1222782093222106_5436454751810972480_n.jpg
+2025-09-03 13:48:14 - LandscapePDF - INFO -   Processing: 541309738_1343241280493249_8238533789616647217_n.jpg
+2025-09-03 13:48:14 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 4: 'int' object has no attribute 'replace'
+2025-09-03 13:48:14 - LandscapePDF - INFO - Trang 5/10: Xu ly 2 anh
+2025-09-03 13:48:14 - LandscapePDF - INFO -   Processing: 541439729_2457169878001925_6733302810437849587_n.jpg
+2025-09-03 13:48:14 - LandscapePDF - INFO -   Processing: 541461785_1349998519825866_1637791319843333485_n.jpg
+2025-09-03 13:48:15 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 5: 'int' object has no attribute 'replace'
+2025-09-03 13:48:15 - LandscapePDF - INFO - Trang 6/10: Xu ly 2 anh
+2025-09-03 13:48:15 - LandscapePDF - INFO -   Processing: 541696404_1559754355006319_957561206582377626_n.jpg
+2025-09-03 13:48:15 - LandscapePDF - INFO -   Processing: 541842683_122160597374392284_613772437941354281_n.jpg
+2025-09-03 13:48:15 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 6: 'int' object has no attribute 'replace'
+2025-09-03 13:48:15 - LandscapePDF - INFO - Trang 7/10: Xu ly 2 anh
+2025-09-03 13:48:15 - LandscapePDF - INFO -   Processing: 542000219_24085608211121879_3388602313907971306_n.jpg
+2025-09-03 13:48:16 - LandscapePDF - INFO -   Processing: 542100460_4273863016234647_4136668971322750029_n.jpg
+2025-09-03 13:48:16 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 7: 'int' object has no attribute 'replace'
+2025-09-03 13:48:16 - LandscapePDF - INFO - Trang 8/10: Xu ly 2 anh
+2025-09-03 13:48:16 - LandscapePDF - INFO -   Processing: 542186533_2608928489445391_7249546168971983569_n.jpg
+2025-09-03 13:48:17 - LandscapePDF - INFO -   Processing: 542211162_1235126131985498_5283819714992465027_n.jpg
+2025-09-03 13:48:17 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 8: 'int' object has no attribute 'replace'
+2025-09-03 13:48:17 - LandscapePDF - INFO - Trang 9/10: Xu ly 2 anh
+2025-09-03 13:48:17 - LandscapePDF - INFO -   Processing: 542755788_1490602098801393_858187205922424347_n.jpg
+2025-09-03 13:48:18 - LandscapePDF - INFO -   Processing: 542755910_3278265898998555_7289432189616158670_n.jpg
+2025-09-03 13:48:18 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 9: 'int' object has no attribute 'replace'
+2025-09-03 13:48:18 - LandscapePDF - INFO - Trang 10/10: Xu ly 2 anh
+2025-09-03 13:48:18 - LandscapePDF - INFO -   Processing: 542760758_4173674542909114_1714412912840665734_n.jpg
+2025-09-03 13:48:18 - LandscapePDF - INFO -   Processing: 543383901_790399170182192_7814271626662424138_n.jpg
+2025-09-03 13:48:19 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 10: 'int' object has no attribute 'replace'
+2025-09-03 13:48:19 - LandscapePDF - ERROR - ERROR: Khong co trang nao duoc tao thanh cong!
+2025-09-03 13:48:19 - LandscapePDF - INFO - Trang 1/10: Xu ly 2 anh
+2025-09-03 13:48:19 - LandscapePDF - INFO -   Processing: 540570846_769843835784073_2613467538492001908_n.jpg
+2025-09-03 13:48:19 - LandscapePDF - INFO -   Processing: 543383901_790399170182192_7814271626662424138_n.jpg
+2025-09-03 13:48:19 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 1: 'int' object has no attribute 'replace'
+2025-09-03 13:48:19 - LandscapePDF - INFO - Trang 2/10: Xu ly 2 anh
+2025-09-03 13:48:19 - LandscapePDF - INFO -   Processing: 541439729_2457169878001925_6733302810437849587_n.jpg
+2025-09-03 13:48:20 - LandscapePDF - INFO -   Processing: 541309738_1343241280493249_8238533789616647217_n.jpg
+2025-09-03 13:48:20 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 2: 'int' object has no attribute 'replace'
+2025-09-03 13:48:20 - LandscapePDF - INFO - Trang 3/10: Xu ly 2 anh
+2025-09-03 13:48:20 - LandscapePDF - INFO -   Processing: 540535503_1848470152400505_8042067828159863331_n.jpg
+2025-09-03 13:48:21 - LandscapePDF - INFO -   Processing: 542760758_4173674542909114_1714412912840665734_n.jpg
+2025-09-03 13:48:21 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 3: 'int' object has no attribute 'replace'
+2025-09-03 13:48:21 - LandscapePDF - INFO - Trang 4/10: Xu ly 2 anh
+2025-09-03 13:48:21 - LandscapePDF - INFO -   Processing: 541842683_122160597374392284_613772437941354281_n.jpg
+2025-09-03 13:48:21 - LandscapePDF - INFO -   Processing: 542000219_24085608211121879_3388602313907971306_n.jpg
+2025-09-03 13:48:22 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 4: 'int' object has no attribute 'replace'
+2025-09-03 13:48:22 - LandscapePDF - INFO - Trang 5/10: Xu ly 2 anh
+2025-09-03 13:48:22 - LandscapePDF - INFO -   Processing: 540975980_1222782093222106_5436454751810972480_n.jpg
+2025-09-03 13:48:22 - LandscapePDF - INFO -   Processing: 542211162_1235126131985498_5283819714992465027_n.jpg
+2025-09-03 13:48:22 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 5: 'int' object has no attribute 'replace'
+2025-09-03 13:48:22 - LandscapePDF - INFO - Trang 6/10: Xu ly 2 anh
+2025-09-03 13:48:22 - LandscapePDF - INFO -   Processing: 540188804_764397789913318_2688826422228665341_n.jpg
+2025-09-03 13:48:23 - LandscapePDF - INFO -   Processing: 542755788_1490602098801393_858187205922424347_n.jpg
+2025-09-03 13:48:23 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 6: 'int' object has no attribute 'replace'
+2025-09-03 13:48:23 - LandscapePDF - INFO - Trang 7/10: Xu ly 2 anh
+2025-09-03 13:48:23 - LandscapePDF - INFO -   Processing: 542100460_4273863016234647_4136668971322750029_n.jpg
+2025-09-03 13:48:23 - LandscapePDF - INFO -   Processing: 540690226_1349996933159358_4989027292475908743_n.jpg
+2025-09-03 13:48:24 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 7: 'int' object has no attribute 'replace'
+2025-09-03 13:48:24 - LandscapePDF - INFO - Trang 8/10: Xu ly 2 anh
+2025-09-03 13:48:24 - LandscapePDF - INFO -   Processing: 541461785_1349998519825866_1637791319843333485_n.jpg
+2025-09-03 13:48:24 - LandscapePDF - INFO -   Processing: 541696404_1559754355006319_957561206582377626_n.jpg
+2025-09-03 13:48:24 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 8: 'int' object has no attribute 'replace'
+2025-09-03 13:48:24 - LandscapePDF - INFO - Trang 9/10: Xu ly 2 anh
+2025-09-03 13:48:24 - LandscapePDF - INFO -   Processing: 542755910_3278265898998555_7289432189616158670_n.jpg
+2025-09-03 13:48:25 - LandscapePDF - INFO -   Processing: 542186533_2608928489445391_7249546168971983569_n.jpg
+2025-09-03 13:48:25 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 9: 'int' object has no attribute 'replace'
+2025-09-03 13:48:25 - LandscapePDF - INFO - Trang 10/10: Xu ly 2 anh
+2025-09-03 13:48:25 - LandscapePDF - INFO -   Processing: 540482544_3262281267262219_8357933210408560192_n.jpg
+2025-09-03 13:48:25 - LandscapePDF - INFO -   Processing: 540524245_770015365766920_4439550005776684681_n.jpg
+2025-09-03 13:48:26 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 10: 'int' object has no attribute 'replace'
+2025-09-03 13:48:26 - LandscapePDF - ERROR - ERROR: Khong co trang nao duoc tao thanh cong!
+2025-09-03 13:50:20 - LandscapePDF - INFO - Trang 1/10: Xu ly 2 anh
+2025-09-03 13:50:20 - LandscapePDF - INFO -   Processing: 540188804_764397789913318_2688826422228665341_n.jpg
+2025-09-03 13:50:20 - LandscapePDF - INFO -   Processing: 540482544_3262281267262219_8357933210408560192_n.jpg
+2025-09-03 13:50:20 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 1: 'int' object has no attribute 'replace'
+2025-09-03 13:50:20 - LandscapePDF - INFO - Trang 2/10: Xu ly 2 anh
+2025-09-03 13:50:20 - LandscapePDF - INFO -   Processing: 540524245_770015365766920_4439550005776684681_n.jpg
+2025-09-03 13:50:21 - LandscapePDF - INFO -   Processing: 540535503_1848470152400505_8042067828159863331_n.jpg
+2025-09-03 13:50:21 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 2: 'int' object has no attribute 'replace'
+2025-09-03 13:50:21 - LandscapePDF - INFO - Trang 3/10: Xu ly 2 anh
+2025-09-03 13:50:21 - LandscapePDF - INFO -   Processing: 540570846_769843835784073_2613467538492001908_n.jpg
+2025-09-03 13:50:21 - LandscapePDF - INFO -   Processing: 540690226_1349996933159358_4989027292475908743_n.jpg
+2025-09-03 13:50:22 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 3: 'int' object has no attribute 'replace'
+2025-09-03 13:50:22 - LandscapePDF - INFO - Trang 4/10: Xu ly 2 anh
+2025-09-03 13:50:22 - LandscapePDF - INFO -   Processing: 540975980_1222782093222106_5436454751810972480_n.jpg
+2025-09-03 13:50:22 - LandscapePDF - INFO -   Processing: 541309738_1343241280493249_8238533789616647217_n.jpg
+2025-09-03 13:50:22 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 4: 'int' object has no attribute 'replace'
+2025-09-03 13:50:22 - LandscapePDF - INFO - Trang 5/10: Xu ly 2 anh
+2025-09-03 13:50:22 - LandscapePDF - INFO -   Processing: 541439729_2457169878001925_6733302810437849587_n.jpg
+2025-09-03 13:50:22 - LandscapePDF - INFO -   Processing: 541461785_1349998519825866_1637791319843333485_n.jpg
+2025-09-03 13:50:23 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 5: 'int' object has no attribute 'replace'
+2025-09-03 13:50:23 - LandscapePDF - INFO - Trang 6/10: Xu ly 2 anh
+2025-09-03 13:50:23 - LandscapePDF - INFO -   Processing: 541696404_1559754355006319_957561206582377626_n.jpg
+2025-09-03 13:50:23 - LandscapePDF - INFO -   Processing: 541842683_122160597374392284_613772437941354281_n.jpg
+2025-09-03 13:50:23 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 6: 'int' object has no attribute 'replace'
+2025-09-03 13:50:23 - LandscapePDF - INFO - Trang 7/10: Xu ly 2 anh
+2025-09-03 13:50:23 - LandscapePDF - INFO -   Processing: 542000219_24085608211121879_3388602313907971306_n.jpg
+2025-09-03 13:50:24 - LandscapePDF - INFO -   Processing: 542100460_4273863016234647_4136668971322750029_n.jpg
+2025-09-03 13:50:24 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 7: 'int' object has no attribute 'replace'
+2025-09-03 13:50:24 - LandscapePDF - INFO - Trang 8/10: Xu ly 2 anh
+2025-09-03 13:50:24 - LandscapePDF - INFO -   Processing: 542186533_2608928489445391_7249546168971983569_n.jpg
+2025-09-03 13:50:24 - LandscapePDF - INFO -   Processing: 542211162_1235126131985498_5283819714992465027_n.jpg
+2025-09-03 13:50:25 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 8: 'int' object has no attribute 'replace'
+2025-09-03 13:50:25 - LandscapePDF - INFO - Trang 9/10: Xu ly 2 anh
+2025-09-03 13:50:25 - LandscapePDF - INFO -   Processing: 542755788_1490602098801393_858187205922424347_n.jpg
+2025-09-03 13:50:25 - LandscapePDF - INFO -   Processing: 542755910_3278265898998555_7289432189616158670_n.jpg
+2025-09-03 13:50:25 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 9: 'int' object has no attribute 'replace'
+2025-09-03 13:50:25 - LandscapePDF - INFO - Trang 10/10: Xu ly 2 anh
+2025-09-03 13:50:25 - LandscapePDF - INFO -   Processing: 542760758_4173674542909114_1714412912840665734_n.jpg
+2025-09-03 13:50:25 - LandscapePDF - INFO -   Processing: 543383901_790399170182192_7814271626662424138_n.jpg
+2025-09-03 13:50:26 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 10: 'int' object has no attribute 'replace'
+2025-09-03 13:50:26 - LandscapePDF - ERROR - ERROR: Khong co trang nao duoc tao thanh cong!
+2025-09-03 13:50:26 - LandscapePDF - INFO - Trang 1/10: Xu ly 2 anh
+2025-09-03 13:50:26 - LandscapePDF - INFO -   Processing: 540975980_1222782093222106_5436454751810972480_n.jpg
+2025-09-03 13:50:26 - LandscapePDF - INFO -   Processing: 542100460_4273863016234647_4136668971322750029_n.jpg
+2025-09-03 13:50:26 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 1: 'int' object has no attribute 'replace'
+2025-09-03 13:50:26 - LandscapePDF - INFO - Trang 2/10: Xu ly 2 anh
+2025-09-03 13:50:26 - LandscapePDF - INFO -   Processing: 542755788_1490602098801393_858187205922424347_n.jpg
+2025-09-03 13:50:27 - LandscapePDF - INFO -   Processing: 540690226_1349996933159358_4989027292475908743_n.jpg
+2025-09-03 13:50:27 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 2: 'int' object has no attribute 'replace'
+2025-09-03 13:50:27 - LandscapePDF - INFO - Trang 3/10: Xu ly 2 anh
+2025-09-03 13:50:27 - LandscapePDF - INFO -   Processing: 540524245_770015365766920_4439550005776684681_n.jpg
+2025-09-03 13:50:27 - LandscapePDF - INFO -   Processing: 542000219_24085608211121879_3388602313907971306_n.jpg
+2025-09-03 13:50:27 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 3: 'int' object has no attribute 'replace'
+2025-09-03 13:50:27 - LandscapePDF - INFO - Trang 4/10: Xu ly 2 anh
+2025-09-03 13:50:27 - LandscapePDF - INFO -   Processing: 542760758_4173674542909114_1714412912840665734_n.jpg
+2025-09-03 13:50:28 - LandscapePDF - INFO -   Processing: 540570846_769843835784073_2613467538492001908_n.jpg
+2025-09-03 13:50:28 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 4: 'int' object has no attribute 'replace'
+2025-09-03 13:50:28 - LandscapePDF - INFO - Trang 5/10: Xu ly 2 anh
+2025-09-03 13:50:28 - LandscapePDF - INFO -   Processing: 542211162_1235126131985498_5283819714992465027_n.jpg
+2025-09-03 13:50:28 - LandscapePDF - INFO -   Processing: 541696404_1559754355006319_957561206582377626_n.jpg
+2025-09-03 13:50:29 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 5: 'int' object has no attribute 'replace'
+2025-09-03 13:50:29 - LandscapePDF - INFO - Trang 6/10: Xu ly 2 anh
+2025-09-03 13:50:29 - LandscapePDF - INFO -   Processing: 540482544_3262281267262219_8357933210408560192_n.jpg
+2025-09-03 13:50:29 - LandscapePDF - INFO -   Processing: 541842683_122160597374392284_613772437941354281_n.jpg
+2025-09-03 13:50:29 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 6: 'int' object has no attribute 'replace'
+2025-09-03 13:50:29 - LandscapePDF - INFO - Trang 7/10: Xu ly 2 anh
+2025-09-03 13:50:29 - LandscapePDF - INFO -   Processing: 542755910_3278265898998555_7289432189616158670_n.jpg
+2025-09-03 13:50:30 - LandscapePDF - INFO -   Processing: 543383901_790399170182192_7814271626662424138_n.jpg
+2025-09-03 13:50:30 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 7: 'int' object has no attribute 'replace'
+2025-09-03 13:50:30 - LandscapePDF - INFO - Trang 8/10: Xu ly 2 anh
+2025-09-03 13:50:30 - LandscapePDF - INFO -   Processing: 540188804_764397789913318_2688826422228665341_n.jpg
+2025-09-03 13:50:31 - LandscapePDF - INFO -   Processing: 540535503_1848470152400505_8042067828159863331_n.jpg
+2025-09-03 13:50:31 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 8: 'int' object has no attribute 'replace'
+2025-09-03 13:50:31 - LandscapePDF - INFO - Trang 9/10: Xu ly 2 anh
+2025-09-03 13:50:31 - LandscapePDF - INFO -   Processing: 541309738_1343241280493249_8238533789616647217_n.jpg
+2025-09-03 13:50:31 - LandscapePDF - INFO -   Processing: 541439729_2457169878001925_6733302810437849587_n.jpg
+2025-09-03 13:50:32 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 9: 'int' object has no attribute 'replace'
+2025-09-03 13:50:32 - LandscapePDF - INFO - Trang 10/10: Xu ly 2 anh
+2025-09-03 13:50:32 - LandscapePDF - INFO -   Processing: 541461785_1349998519825866_1637791319843333485_n.jpg
+2025-09-03 13:50:32 - LandscapePDF - INFO -   Processing: 542186533_2608928489445391_7249546168971983569_n.jpg
+2025-09-03 13:50:32 - LandscapePDF - ERROR - ERROR: Loi khi tao trang 10: 'int' object has no attribute 'replace'
+2025-09-03 13:50:32 - LandscapePDF - ERROR - ERROR: Khong co trang nao duoc tao thanh cong!
+2025-09-03 13:53:33 - LandscapePDF - INFO - Trang 1/10: Xu ly 2 anh
+2025-09-03 13:53:33 - LandscapePDF - INFO -   Processing: 540188804_764397789913318_2688826422228665341_n.jpg
+2025-09-03 13:53:34 - LandscapePDF - INFO -   Processing: 540482544_3262281267262219_8357933210408560192_n.jpg
+2025-09-03 13:53:34 - LandscapePDF - INFO - Trang 2/10: Xu ly 2 anh
+2025-09-03 13:53:34 - LandscapePDF - INFO -   Processing: 540524245_770015365766920_4439550005776684681_n.jpg
+2025-09-03 13:53:34 - LandscapePDF - INFO -   Processing: 540535503_1848470152400505_8042067828159863331_n.jpg
+2025-09-03 13:53:34 - LandscapePDF - INFO - Trang 3/10: Xu ly 2 anh
+2025-09-03 13:53:34 - LandscapePDF - INFO -   Processing: 540570846_769843835784073_2613467538492001908_n.jpg
+2025-09-03 13:53:35 - LandscapePDF - INFO -   Processing: 540690226_1349996933159358_4989027292475908743_n.jpg
+2025-09-03 13:53:35 - LandscapePDF - INFO - Trang 4/10: Xu ly 2 anh
+2025-09-03 13:53:35 - LandscapePDF - INFO -   Processing: 540975980_1222782093222106_5436454751810972480_n.jpg
+2025-09-03 13:53:35 - LandscapePDF - INFO -   Processing: 541309738_1343241280493249_8238533789616647217_n.jpg
+2025-09-03 13:53:35 - LandscapePDF - INFO - Trang 5/10: Xu ly 2 anh
+2025-09-03 13:53:35 - LandscapePDF - INFO -   Processing: 541439729_2457169878001925_6733302810437849587_n.jpg
+2025-09-03 13:53:36 - LandscapePDF - INFO -   Processing: 541461785_1349998519825866_1637791319843333485_n.jpg
+2025-09-03 13:53:36 - LandscapePDF - INFO - Trang 6/10: Xu ly 2 anh
+2025-09-03 13:53:36 - LandscapePDF - INFO -   Processing: 541696404_1559754355006319_957561206582377626_n.jpg
+2025-09-03 13:53:36 - LandscapePDF - INFO -   Processing: 541842683_122160597374392284_613772437941354281_n.jpg
+2025-09-03 13:53:37 - LandscapePDF - INFO - Trang 7/10: Xu ly 2 anh
+2025-09-03 13:53:37 - LandscapePDF - INFO -   Processing: 542000219_24085608211121879_3388602313907971306_n.jpg
+2025-09-03 13:53:37 - LandscapePDF - INFO -   Processing: 542100460_4273863016234647_4136668971322750029_n.jpg
+2025-09-03 13:53:37 - LandscapePDF - INFO - Trang 8/10: Xu ly 2 anh
+2025-09-03 13:53:37 - LandscapePDF - INFO -   Processing: 542186533_2608928489445391_7249546168971983569_n.jpg
+2025-09-03 13:53:38 - LandscapePDF - INFO -   Processing: 542211162_1235126131985498_5283819714992465027_n.jpg
+2025-09-03 13:53:38 - LandscapePDF - INFO - Trang 9/10: Xu ly 2 anh
+2025-09-03 13:53:38 - LandscapePDF - INFO -   Processing: 542755788_1490602098801393_858187205922424347_n.jpg
+2025-09-03 13:53:38 - LandscapePDF - INFO -   Processing: 542755910_3278265898998555_7289432189616158670_n.jpg
+2025-09-03 13:53:38 - LandscapePDF - INFO - Trang 10/10: Xu ly 2 anh
+2025-09-03 13:53:38 - LandscapePDF - INFO -   Processing: 542760758_4173674542909114_1714412912840665734_n.jpg
+2025-09-03 13:53:39 - LandscapePDF - INFO -   Processing: 543383901_790399170182192_7814271626662424138_n.jpg
+2025-09-03 13:53:40 - LandscapePDF - INFO - SUCCESS: PDF da duoc tao: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_135333_copy01.pdf
+2025-09-03 13:53:40 - LandscapePDF - INFO - STATS: Thanh cong: 10 trang tu 20 anh
+2025-09-03 13:53:40 - LandscapePDF - INFO - Trang 1/10: Xu ly 2 anh
+2025-09-03 13:53:40 - LandscapePDF - INFO -   Processing: 540975980_1222782093222106_5436454751810972480_n.jpg
+2025-09-03 13:53:40 - LandscapePDF - INFO -   Processing: 542000219_24085608211121879_3388602313907971306_n.jpg
+2025-09-03 13:53:40 - LandscapePDF - INFO - Trang 2/10: Xu ly 2 anh
+2025-09-03 13:53:40 - LandscapePDF - INFO -   Processing: 540482544_3262281267262219_8357933210408560192_n.jpg
+2025-09-03 13:53:41 - LandscapePDF - INFO -   Processing: 540570846_769843835784073_2613467538492001908_n.jpg
+2025-09-03 13:53:41 - LandscapePDF - INFO - Trang 3/10: Xu ly 2 anh
+2025-09-03 13:53:41 - LandscapePDF - INFO -   Processing: 542211162_1235126131985498_5283819714992465027_n.jpg
+2025-09-03 13:53:41 - LandscapePDF - INFO -   Processing: 540690226_1349996933159358_4989027292475908743_n.jpg
+2025-09-03 13:53:42 - LandscapePDF - INFO - Trang 4/10: Xu ly 2 anh
+2025-09-03 13:53:42 - LandscapePDF - INFO -   Processing: 542100460_4273863016234647_4136668971322750029_n.jpg
+2025-09-03 13:53:42 - LandscapePDF - INFO -   Processing: 541461785_1349998519825866_1637791319843333485_n.jpg
+2025-09-03 13:53:42 - LandscapePDF - INFO - Trang 5/10: Xu ly 2 anh
+2025-09-03 13:53:42 - LandscapePDF - INFO -   Processing: 541696404_1559754355006319_957561206582377626_n.jpg
+2025-09-03 13:53:42 - LandscapePDF - INFO -   Processing: 540524245_770015365766920_4439550005776684681_n.jpg
+2025-09-03 13:53:43 - LandscapePDF - INFO - Trang 6/10: Xu ly 2 anh
+2025-09-03 13:53:43 - LandscapePDF - INFO -   Processing: 540535503_1848470152400505_8042067828159863331_n.jpg
+2025-09-03 13:53:43 - LandscapePDF - INFO -   Processing: 540188804_764397789913318_2688826422228665341_n.jpg
+2025-09-03 13:53:43 - LandscapePDF - INFO - Trang 7/10: Xu ly 2 anh
+2025-09-03 13:53:43 - LandscapePDF - INFO -   Processing: 542760758_4173674542909114_1714412912840665734_n.jpg
+2025-09-03 13:53:44 - LandscapePDF - INFO -   Processing: 541842683_122160597374392284_613772437941354281_n.jpg
+2025-09-03 13:53:44 - LandscapePDF - INFO - Trang 8/10: Xu ly 2 anh
+2025-09-03 13:53:44 - LandscapePDF - INFO -   Processing: 542755788_1490602098801393_858187205922424347_n.jpg
+2025-09-03 13:53:44 - LandscapePDF - INFO -   Processing: 543383901_790399170182192_7814271626662424138_n.jpg
+2025-09-03 13:53:44 - LandscapePDF - INFO - Trang 9/10: Xu ly 2 anh
+2025-09-03 13:53:44 - LandscapePDF - INFO -   Processing: 541309738_1343241280493249_8238533789616647217_n.jpg
+2025-09-03 13:53:45 - LandscapePDF - INFO -   Processing: 542186533_2608928489445391_7249546168971983569_n.jpg
+2025-09-03 13:53:45 - LandscapePDF - INFO - Trang 10/10: Xu ly 2 anh
+2025-09-03 13:53:45 - LandscapePDF - INFO -   Processing: 542755910_3278265898998555_7289432189616158670_n.jpg
+2025-09-03 13:53:45 - LandscapePDF - INFO -   Processing: 541439729_2457169878001925_6733302810437849587_n.jpg
+2025-09-03 13:53:46 - LandscapePDF - INFO - SUCCESS: PDF da duoc tao: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_135340_copy02.pdf
+2025-09-03 13:53:46 - LandscapePDF - INFO - STATS: Thanh cong: 10 trang tu 20 anh
+2025-09-03 13:57:35 - LandscapePDF - INFO - Trang 1/10: Xu ly 2 anh
+2025-09-03 13:57:35 - LandscapePDF - INFO -   Processing: 540188804_764397789913318_2688826422228665341_n.jpg
+2025-09-03 13:57:35 - LandscapePDF - INFO -   Processing: 540482544_3262281267262219_8357933210408560192_n.jpg
+2025-09-03 13:57:35 - LandscapePDF - INFO - Trang 2/10: Xu ly 2 anh
+2025-09-03 13:57:35 - LandscapePDF - INFO -   Processing: 540524245_770015365766920_4439550005776684681_n.jpg
+2025-09-03 13:57:35 - LandscapePDF - INFO -   Processing: 540535503_1848470152400505_8042067828159863331_n.jpg
+2025-09-03 13:57:36 - LandscapePDF - INFO - Trang 3/10: Xu ly 2 anh
+2025-09-03 13:57:36 - LandscapePDF - INFO -   Processing: 540570846_769843835784073_2613467538492001908_n.jpg
+2025-09-03 13:57:36 - LandscapePDF - INFO -   Processing: 540690226_1349996933159358_4989027292475908743_n.jpg
+2025-09-03 13:57:36 - LandscapePDF - INFO - Trang 4/10: Xu ly 2 anh
+2025-09-03 13:57:36 - LandscapePDF - INFO -   Processing: 540975980_1222782093222106_5436454751810972480_n.jpg
+2025-09-03 13:57:36 - LandscapePDF - INFO -   Processing: 541309738_1343241280493249_8238533789616647217_n.jpg
+2025-09-03 13:57:37 - LandscapePDF - INFO - Trang 5/10: Xu ly 2 anh
+2025-09-03 13:57:37 - LandscapePDF - INFO -   Processing: 541439729_2457169878001925_6733302810437849587_n.jpg
+2025-09-03 13:57:37 - LandscapePDF - INFO -   Processing: 541461785_1349998519825866_1637791319843333485_n.jpg
+2025-09-03 13:57:37 - LandscapePDF - INFO - Trang 6/10: Xu ly 2 anh
+2025-09-03 13:57:37 - LandscapePDF - INFO -   Processing: 541696404_1559754355006319_957561206582377626_n.jpg
+2025-09-03 13:57:38 - LandscapePDF - INFO -   Processing: 541842683_122160597374392284_613772437941354281_n.jpg
+2025-09-03 13:57:38 - LandscapePDF - INFO - Trang 7/10: Xu ly 2 anh
+2025-09-03 13:57:38 - LandscapePDF - INFO -   Processing: 542000219_24085608211121879_3388602313907971306_n.jpg
+2025-09-03 13:57:38 - LandscapePDF - INFO -   Processing: 542100460_4273863016234647_4136668971322750029_n.jpg
+2025-09-03 13:57:39 - LandscapePDF - INFO - Trang 8/10: Xu ly 2 anh
+2025-09-03 13:57:39 - LandscapePDF - INFO -   Processing: 542186533_2608928489445391_7249546168971983569_n.jpg
+2025-09-03 13:57:39 - LandscapePDF - INFO -   Processing: 542211162_1235126131985498_5283819714992465027_n.jpg
+2025-09-03 13:57:39 - LandscapePDF - INFO - Trang 9/10: Xu ly 2 anh
+2025-09-03 13:57:39 - LandscapePDF - INFO -   Processing: 542755788_1490602098801393_858187205922424347_n.jpg
+2025-09-03 13:57:39 - LandscapePDF - INFO -   Processing: 542755910_3278265898998555_7289432189616158670_n.jpg
+2025-09-03 13:57:40 - LandscapePDF - INFO - Trang 10/10: Xu ly 2 anh
+2025-09-03 13:57:40 - LandscapePDF - INFO -   Processing: 542760758_4173674542909114_1714412912840665734_n.jpg
+2025-09-03 13:57:40 - LandscapePDF - INFO -   Processing: 543383901_790399170182192_7814271626662424138_n.jpg
+2025-09-03 13:57:41 - LandscapePDF - INFO - SUCCESS: PDF da duoc tao: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_135735_copy01.pdf
+2025-09-03 13:57:41 - LandscapePDF - INFO - STATS: Thanh cong: 10 trang tu 20 anh
+2025-09-03 13:57:41 - LandscapePDF - INFO - Trang 1/10: Xu ly 2 anh
+2025-09-03 13:57:41 - LandscapePDF - INFO -   Processing: 543383901_790399170182192_7814271626662424138_n.jpg
+2025-09-03 13:57:41 - LandscapePDF - INFO -   Processing: 542186533_2608928489445391_7249546168971983569_n.jpg
+2025-09-03 13:57:41 - LandscapePDF - INFO - Trang 2/10: Xu ly 2 anh
+2025-09-03 13:57:41 - LandscapePDF - INFO -   Processing: 542760758_4173674542909114_1714412912840665734_n.jpg
+2025-09-03 13:57:42 - LandscapePDF - INFO -   Processing: 542000219_24085608211121879_3388602313907971306_n.jpg
+2025-09-03 13:57:42 - LandscapePDF - INFO - Trang 3/10: Xu ly 2 anh
+2025-09-03 13:57:42 - LandscapePDF - INFO -   Processing: 541439729_2457169878001925_6733302810437849587_n.jpg
+2025-09-03 13:57:42 - LandscapePDF - INFO -   Processing: 542211162_1235126131985498_5283819714992465027_n.jpg
+2025-09-03 13:57:43 - LandscapePDF - INFO - Trang 4/10: Xu ly 2 anh
+2025-09-03 13:57:43 - LandscapePDF - INFO -   Processing: 540524245_770015365766920_4439550005776684681_n.jpg
+2025-09-03 13:57:43 - LandscapePDF - INFO -   Processing: 540975980_1222782093222106_5436454751810972480_n.jpg
+2025-09-03 13:57:43 - LandscapePDF - INFO - Trang 5/10: Xu ly 2 anh
+2025-09-03 13:57:43 - LandscapePDF - INFO -   Processing: 540535503_1848470152400505_8042067828159863331_n.jpg
+2025-09-03 13:57:43 - LandscapePDF - INFO -   Processing: 541696404_1559754355006319_957561206582377626_n.jpg
+2025-09-03 13:57:43 - LandscapePDF - INFO - Trang 6/10: Xu ly 2 anh
+2025-09-03 13:57:43 - LandscapePDF - INFO -   Processing: 540482544_3262281267262219_8357933210408560192_n.jpg
+2025-09-03 13:57:44 - LandscapePDF - INFO -   Processing: 541309738_1343241280493249_8238533789616647217_n.jpg
+2025-09-03 13:57:44 - LandscapePDF - INFO - Trang 7/10: Xu ly 2 anh
+2025-09-03 13:57:44 - LandscapePDF - INFO -   Processing: 541461785_1349998519825866_1637791319843333485_n.jpg
+2025-09-03 13:57:44 - LandscapePDF - INFO -   Processing: 540690226_1349996933159358_4989027292475908743_n.jpg
+2025-09-03 13:57:45 - LandscapePDF - INFO - Trang 8/10: Xu ly 2 anh
+2025-09-03 13:57:45 - LandscapePDF - INFO -   Processing: 542755788_1490602098801393_858187205922424347_n.jpg
+2025-09-03 13:57:45 - LandscapePDF - INFO -   Processing: 540570846_769843835784073_2613467538492001908_n.jpg
+2025-09-03 13:57:45 - LandscapePDF - INFO - Trang 9/10: Xu ly 2 anh
+2025-09-03 13:57:45 - LandscapePDF - INFO -   Processing: 542755910_3278265898998555_7289432189616158670_n.jpg
+2025-09-03 13:57:45 - LandscapePDF - INFO -   Processing: 542100460_4273863016234647_4136668971322750029_n.jpg
+2025-09-03 13:57:46 - LandscapePDF - INFO - Trang 10/10: Xu ly 2 anh
+2025-09-03 13:57:46 - LandscapePDF - INFO -   Processing: 540188804_764397789913318_2688826422228665341_n.jpg
+2025-09-03 13:57:46 - LandscapePDF - INFO -   Processing: 541842683_122160597374392284_613772437941354281_n.jpg
+2025-09-03 13:57:47 - LandscapePDF - INFO - SUCCESS: PDF da duoc tao: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_135741_copy02.pdf
+2025-09-03 13:57:47 - LandscapePDF - INFO - STATS: Thanh cong: 10 trang tu 20 anh
+2025-09-03 13:59:52 - LandscapePDF - INFO - Trang 1/10: Xu ly 2 anh
+2025-09-03 13:59:52 - LandscapePDF - INFO -   Processing: 540188804_764397789913318_2688826422228665341_n.jpg
+2025-09-03 13:59:52 - LandscapePDF - INFO -   Processing: 540482544_3262281267262219_8357933210408560192_n.jpg
+2025-09-03 13:59:53 - LandscapePDF - INFO - Trang 2/10: Xu ly 2 anh
+2025-09-03 13:59:53 - LandscapePDF - INFO -   Processing: 540524245_770015365766920_4439550005776684681_n.jpg
+2025-09-03 13:59:53 - LandscapePDF - INFO -   Processing: 540535503_1848470152400505_8042067828159863331_n.jpg
+2025-09-03 13:59:53 - LandscapePDF - INFO - Trang 3/10: Xu ly 2 anh
+2025-09-03 13:59:53 - LandscapePDF - INFO -   Processing: 540570846_769843835784073_2613467538492001908_n.jpg
+2025-09-03 13:59:53 - LandscapePDF - INFO -   Processing: 540690226_1349996933159358_4989027292475908743_n.jpg
+2025-09-03 13:59:54 - LandscapePDF - INFO - Trang 4/10: Xu ly 2 anh
+2025-09-03 13:59:54 - LandscapePDF - INFO -   Processing: 540975980_1222782093222106_5436454751810972480_n.jpg
+2025-09-03 13:59:54 - LandscapePDF - INFO -   Processing: 541309738_1343241280493249_8238533789616647217_n.jpg
+2025-09-03 13:59:54 - LandscapePDF - INFO - Trang 5/10: Xu ly 2 anh
+2025-09-03 13:59:54 - LandscapePDF - INFO -   Processing: 541439729_2457169878001925_6733302810437849587_n.jpg
+2025-09-03 13:59:55 - LandscapePDF - INFO -   Processing: 541461785_1349998519825866_1637791319843333485_n.jpg
+2025-09-03 13:59:55 - LandscapePDF - INFO - Trang 6/10: Xu ly 2 anh
+2025-09-03 13:59:55 - LandscapePDF - INFO -   Processing: 541696404_1559754355006319_957561206582377626_n.jpg
+2025-09-03 13:59:55 - LandscapePDF - INFO -   Processing: 541842683_122160597374392284_613772437941354281_n.jpg
+2025-09-03 13:59:55 - LandscapePDF - INFO - Trang 7/10: Xu ly 2 anh
+2025-09-03 13:59:55 - LandscapePDF - INFO -   Processing: 542000219_24085608211121879_3388602313907971306_n.jpg
+2025-09-03 13:59:56 - LandscapePDF - INFO -   Processing: 542100460_4273863016234647_4136668971322750029_n.jpg
+2025-09-03 13:59:56 - LandscapePDF - INFO - Trang 8/10: Xu ly 2 anh
+2025-09-03 13:59:56 - LandscapePDF - INFO -   Processing: 542186533_2608928489445391_7249546168971983569_n.jpg
+2025-09-03 13:59:56 - LandscapePDF - INFO -   Processing: 542211162_1235126131985498_5283819714992465027_n.jpg
+2025-09-03 13:59:57 - LandscapePDF - INFO - Trang 9/10: Xu ly 2 anh
+2025-09-03 13:59:57 - LandscapePDF - INFO -   Processing: 542755788_1490602098801393_858187205922424347_n.jpg
+2025-09-03 13:59:57 - LandscapePDF - INFO -   Processing: 542755910_3278265898998555_7289432189616158670_n.jpg
+2025-09-03 13:59:57 - LandscapePDF - INFO - Trang 10/10: Xu ly 2 anh
+2025-09-03 13:59:57 - LandscapePDF - INFO -   Processing: 542760758_4173674542909114_1714412912840665734_n.jpg
+2025-09-03 13:59:57 - LandscapePDF - INFO -   Processing: 543383901_790399170182192_7814271626662424138_n.jpg
+2025-09-03 13:59:58 - LandscapePDF - INFO - SUCCESS: PDF da duoc tao: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_135952_copy01.pdf
+2025-09-03 13:59:58 - LandscapePDF - INFO - STATS: Thanh cong: 10 trang tu 20 anh
+2025-09-03 13:59:58 - LandscapePDF - INFO - Trang 1/10: Xu ly 2 anh
+2025-09-03 13:59:58 - LandscapePDF - INFO -   Processing: 541696404_1559754355006319_957561206582377626_n.jpg
+2025-09-03 13:59:59 - LandscapePDF - INFO -   Processing: 542186533_2608928489445391_7249546168971983569_n.jpg
+2025-09-03 13:59:59 - LandscapePDF - INFO - Trang 2/10: Xu ly 2 anh
+2025-09-03 13:59:59 - LandscapePDF - INFO -   Processing: 541439729_2457169878001925_6733302810437849587_n.jpg
+2025-09-03 13:59:59 - LandscapePDF - INFO -   Processing: 542211162_1235126131985498_5283819714992465027_n.jpg
+2025-09-03 13:59:59 - LandscapePDF - INFO - Trang 3/10: Xu ly 2 anh
+2025-09-03 13:59:59 - LandscapePDF - INFO -   Processing: 543383901_790399170182192_7814271626662424138_n.jpg
+2025-09-03 14:00:00 - LandscapePDF - INFO -   Processing: 540188804_764397789913318_2688826422228665341_n.jpg
+2025-09-03 14:00:00 - LandscapePDF - INFO - Trang 4/10: Xu ly 2 anh
+2025-09-03 14:00:00 - LandscapePDF - INFO -   Processing: 540535503_1848470152400505_8042067828159863331_n.jpg
+2025-09-03 14:00:00 - LandscapePDF - INFO -   Processing: 542100460_4273863016234647_4136668971322750029_n.jpg
+2025-09-03 14:00:00 - LandscapePDF - INFO - Trang 5/10: Xu ly 2 anh
+2025-09-03 14:00:00 - LandscapePDF - INFO -   Processing: 540975980_1222782093222106_5436454751810972480_n.jpg
+2025-09-03 14:00:01 - LandscapePDF - INFO -   Processing: 542000219_24085608211121879_3388602313907971306_n.jpg
+2025-09-03 14:00:01 - LandscapePDF - INFO - Trang 6/10: Xu ly 2 anh
+2025-09-03 14:00:01 - LandscapePDF - INFO -   Processing: 540690226_1349996933159358_4989027292475908743_n.jpg
+2025-09-03 14:00:01 - LandscapePDF - INFO -   Processing: 542760758_4173674542909114_1714412912840665734_n.jpg
+2025-09-03 14:00:02 - LandscapePDF - INFO - Trang 7/10: Xu ly 2 anh
+2025-09-03 14:00:02 - LandscapePDF - INFO -   Processing: 542755788_1490602098801393_858187205922424347_n.jpg
+2025-09-03 14:00:02 - LandscapePDF - INFO -   Processing: 541309738_1343241280493249_8238533789616647217_n.jpg
+2025-09-03 14:00:02 - LandscapePDF - INFO - Trang 8/10: Xu ly 2 anh
+2025-09-03 14:00:02 - LandscapePDF - INFO -   Processing: 541461785_1349998519825866_1637791319843333485_n.jpg
+2025-09-03 14:00:03 - LandscapePDF - INFO -   Processing: 540524245_770015365766920_4439550005776684681_n.jpg
+2025-09-03 14:00:03 - LandscapePDF - INFO - Trang 9/10: Xu ly 2 anh
+2025-09-03 14:00:03 - LandscapePDF - INFO -   Processing: 540482544_3262281267262219_8357933210408560192_n.jpg
+2025-09-03 14:00:03 - LandscapePDF - INFO -   Processing: 542755910_3278265898998555_7289432189616158670_n.jpg
+2025-09-03 14:00:04 - LandscapePDF - INFO - Trang 10/10: Xu ly 2 anh
+2025-09-03 14:00:04 - LandscapePDF - INFO -   Processing: 541842683_122160597374392284_613772437941354281_n.jpg
+2025-09-03 14:00:04 - LandscapePDF - INFO -   Processing: 540570846_769843835784073_2613467538492001908_n.jpg
+2025-09-03 14:00:05 - LandscapePDF - INFO - SUCCESS: PDF da duoc tao: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_135958_copy02.pdf
+2025-09-03 14:00:05 - LandscapePDF - INFO - STATS: Thanh cong: 10 trang tu 20 anh
+2025-09-03 14:54:41 - LandscapePDF - ERROR - ERROR: Loi chung: could not convert string to float: '0.3   # 0.3cm'
+2025-09-03 14:55:58 - LandscapePDF - ERROR - ERROR: Loi chung: could not convert string to float: '0.2   # 0.3cm'
+2025-09-03 14:56:20 - LandscapePDF - ERROR - ERROR: Loi chung: could not convert string to float: '0.5   # 0.3cm'
+2025-09-03 14:56:32 - LandscapePDF - ERROR - ERROR: Loi chung: could not convert string to float: '1.0   # 0.3cm'
+2025-09-03 14:59:12 - LandscapePDF - ERROR - ERROR: Loi chung: could not convert string to float: '2.0   # 0.3cm'
+2025-09-03 15:02:39 - LandscapePDF - INFO - Trang 1/10: Xu ly 2 anh
+2025-09-03 15:02:39 - LandscapePDF - INFO -   Processing: 540188804_764397789913318_2688826422228665341_n.jpg
+2025-09-03 15:02:39 - LandscapePDF - INFO -   Processing: 540482544_3262281267262219_8357933210408560192_n.jpg
+2025-09-03 15:02:39 - LandscapePDF - INFO - Trang 2/10: Xu ly 2 anh
+2025-09-03 15:02:39 - LandscapePDF - INFO -   Processing: 540524245_770015365766920_4439550005776684681_n.jpg
+2025-09-03 15:02:40 - LandscapePDF - INFO -   Processing: 540535503_1848470152400505_8042067828159863331_n.jpg
+2025-09-03 15:02:40 - LandscapePDF - INFO - Trang 3/10: Xu ly 2 anh
+2025-09-03 15:02:40 - LandscapePDF - INFO -   Processing: 540570846_769843835784073_2613467538492001908_n.jpg
+2025-09-03 15:02:40 - LandscapePDF - INFO -   Processing: 540690226_1349996933159358_4989027292475908743_n.jpg
+2025-09-03 15:02:40 - LandscapePDF - INFO - Trang 4/10: Xu ly 2 anh
+2025-09-03 15:02:40 - LandscapePDF - INFO -   Processing: 540975980_1222782093222106_5436454751810972480_n.jpg
+2025-09-03 15:02:41 - LandscapePDF - INFO -   Processing: 541309738_1343241280493249_8238533789616647217_n.jpg
+2025-09-03 15:02:41 - LandscapePDF - INFO - Trang 5/10: Xu ly 2 anh
+2025-09-03 15:02:41 - LandscapePDF - INFO -   Processing: 541439729_2457169878001925_6733302810437849587_n.jpg
+2025-09-03 15:02:41 - LandscapePDF - INFO -   Processing: 541461785_1349998519825866_1637791319843333485_n.jpg
+2025-09-03 15:02:41 - LandscapePDF - INFO - Trang 6/10: Xu ly 2 anh
+2025-09-03 15:02:41 - LandscapePDF - INFO -   Processing: 541696404_1559754355006319_957561206582377626_n.jpg
+2025-09-03 15:02:42 - LandscapePDF - INFO -   Processing: 541842683_122160597374392284_613772437941354281_n.jpg
+2025-09-03 15:02:42 - LandscapePDF - INFO - Trang 7/10: Xu ly 2 anh
+2025-09-03 15:02:42 - LandscapePDF - INFO -   Processing: 542000219_24085608211121879_3388602313907971306_n.jpg
+2025-09-03 15:02:42 - LandscapePDF - INFO -   Processing: 542100460_4273863016234647_4136668971322750029_n.jpg
+2025-09-03 15:02:43 - LandscapePDF - INFO - Trang 8/10: Xu ly 2 anh
+2025-09-03 15:02:43 - LandscapePDF - INFO -   Processing: 542186533_2608928489445391_7249546168971983569_n.jpg
+2025-09-03 15:02:43 - LandscapePDF - INFO -   Processing: 542211162_1235126131985498_5283819714992465027_n.jpg
+2025-09-03 15:02:43 - LandscapePDF - INFO - Trang 9/10: Xu ly 2 anh
+2025-09-03 15:02:43 - LandscapePDF - INFO -   Processing: 542755788_1490602098801393_858187205922424347_n.jpg
+2025-09-03 15:02:43 - LandscapePDF - INFO -   Processing: 542755910_3278265898998555_7289432189616158670_n.jpg
+2025-09-03 15:02:44 - LandscapePDF - INFO - Trang 10/10: Xu ly 2 anh
+2025-09-03 15:02:44 - LandscapePDF - INFO -   Processing: 542760758_4173674542909114_1714412912840665734_n.jpg
+2025-09-03 15:02:44 - LandscapePDF - INFO -   Processing: 543383901_790399170182192_7814271626662424138_n.jpg
+2025-09-03 15:02:45 - LandscapePDF - INFO - SUCCESS: PDF da duoc tao: D:\hoc\py\imagetopdf_ngang\output\landscape_pdf_20250903_150239.pdf
+2025-09-03 15:02:45 - LandscapePDF - INFO - STATS: Thanh cong: 10 trang tu 20 anh
+2025-09-03 15:02:45 - LandscapePDF - INFO - MARGINS: Trái=10, Phải=10, Trên=8, Dưới=15
