@@ -1,23 +1,39 @@
 # Ignore logs
 logs/
+*.log
+
+# Ignore input folder completely (except .gitkeep)
 input/*
 !input/.gitkeep
-logs/
+
+# Ignore output folder completely
 output/
+
 # Ignore system files
 .DS_Store
 Thumbs.db
 
 # Ignore virtual environment
 venv/
+env/
 
 # Ignore python cache
 __pycache__/
 *.pyc
 *.pyo
-*.egg-info
+*.egg-info/
 *.egg
 *.swp
 
 # Ignore IDE configs
 .idea/
+.vscode/
+*.sublime-*
+
+# Ignore temporary files
+temp_*
+*.tmp
+
+# Ignore compiled files
+*.so
+*.dll
